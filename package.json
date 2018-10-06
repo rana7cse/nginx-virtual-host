@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "create-symlink": "^1.0.0",
     "readline-sync": "^1.4.9"
   }
 }
